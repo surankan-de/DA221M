@@ -4,8 +4,8 @@ course project
 
 contributors
 
-shubham kumar jha 
-srinjoy som
-yash jain
+shubham kumar jha ,
+srinjoy som,
+yash jain,
 surankan de
 
