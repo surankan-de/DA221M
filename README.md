@@ -1,8 +1,14 @@
-#DA221M
+## DA221M
+
 ## CineSuggest
 
 CineSuggest is a movie recommendation system that provides users with similar movie suggestions when they search for a specific title.
-
+## Contributors
+1. Surankan De
+2. Srinjoy Som
+3. Yash Jain
+4. Shubham Kumar Jha
+5. 
 ## Aims
 
 CineSuggest aims to:
@@ -30,7 +36,7 @@ Ensure you have the following Python modules installed:
 3. To run the streamlit application:
   ```sh
       streamlit run dep.py
-```
+  ```
 ## Features 
 1. Recommend movies with similar themes in content-based recommendation.
 2. Recommend movies with similar cast and crew in Crew-based recommendation.
