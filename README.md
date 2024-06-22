@@ -8,7 +8,7 @@ CineSuggest is a movie recommendation system that provides users with similar mo
 2. Srinjoy Som
 3. Yash Jain
 4. Shubham Kumar Jha
-5. 
+
 ## Aims
 
 CineSuggest aims to:
