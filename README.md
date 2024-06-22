@@ -14,11 +14,12 @@ CineSuggest is a movie recommendation system that provides users with similar mo
 CineSuggest aims to:
 - Provide movie recommendations with a similar cast, crew, or theme.
 - Offer generic movie suggestions based on rating and popularity.
+## Project in Action 
+[![Watch the video](https://img.youtube.com/vi/h7LOXPG-8GE/0.jpg)](https://www.youtube.com/watch?v=h7LOXPG-8GE)
 
 ## To see the project in action, follow these steps:
 
 ### Prerequisites
-
 Ensure you have the following Python modules installed: 
 - NumPy
 - pandas
