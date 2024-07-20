@@ -2,6 +2,8 @@
 
 ## CineSuggest
 
+Note : Please see the "checkbranch" to find unzipped file
+
 CineSuggest is a movie recommendation system that provides users with similar movie suggestions when they search for a specific title.
 ## Contributors
 1. Surankan De
